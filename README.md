@@ -5,6 +5,7 @@
 
 ## how to use
 > `git clone https://github.com/tiewuhih2-13281/DragonBLAPI.git`
+> 
 > `go run .code/datamk.summons.go` or; `go run .code/datamk.chara.go`
 
 ## this includes:
